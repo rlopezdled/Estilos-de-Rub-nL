@@ -7,16 +7,10 @@
         <Style TargetType="Border">
             <Setter Property="CornerRadius" Value="12"/>
         </Style>
-        <Style TargetType="ImageBrush">
-            <Setter Property="ImageSource" Value="/Images/Back.jpg"/>
+
+        <Style TargetType="Image">
+            <Setter Property="Source" Value="/Images/back.jpg"/>
             <Setter Property="Stretch" Value="None"/>
-        </Style>
-        
-        <Style TargetType="Window">
-            <Setter Property="WindowStyle" Value="None"/>
-            <Setter Property="ResizeMode" Value="NoResize"/>
-            <Setter Property="AllowsTransparency" Value="True"/>
-            <Setter Property="Background" Value="Transparent"/>
         </Style>
     </Application.Resources>
 </Application>
