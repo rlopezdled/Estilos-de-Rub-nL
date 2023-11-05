@@ -23,5 +23,12 @@ namespace Estilos_de_RubénL
         {
             InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            MainWindow abrirMainWindow = new MainWindow();
+            this.Close();
+            abrirMainWindow.Show();
+        }
     }
 }

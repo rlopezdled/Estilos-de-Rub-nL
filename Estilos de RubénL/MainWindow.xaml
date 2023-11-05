@@ -15,6 +15,25 @@
         </Style>
     </Window.Resources>
     <Border>
-        <Image/>
+        <Grid>
+            <Image/>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <Label Grid.Row="0" FontSize="48" FontWeight="Bold" Content="¿A donde nos vamos?" Margin="164,18,141,19" Grid.RowSpan="4"/>
+                <TextBox Grid.Row="3" TextWrapping="Wrap" Text="Buscar" FontSize="25" TextAlignment="Center" Margin="121,46,125,-30"/>
+                <Label Grid.Row="3" Content="¿Quieres acertar con la búsqueda?" Margin="302,100,305,-100"/>
+                <Label Grid.Row="3" Content="¿Necesita ayuda?" Margin="344,283,263,-283"/>
+                <Label Grid.Row="3" Foreground="#FF0017FF" Content="Realizar una búsqueda avanzada" Margin="309,118,305,-118"/>
+            </Grid>
+            <Button Content="Buscar" HorizontalAlignment="Left" VerticalAlignment="Top" Width="126" Click="Button_Click_1" Margin="341,253,0,0"/>
+            <Button Content="Destino aleatorio" HorizontalAlignment="Left" VerticalAlignment="Top" Width="184" Click="Button_Click" Margin="302,294,0,0"/>
+            <Button Content="Inicio" HorizontalAlignment="Left" VerticalAlignment="Top" Width="50" Height="50" Click="Button_Click_2"/>
+            <Button Content="Pulsa aquí" HorizontalAlignment="Left" Margin="359,365,0,0" VerticalAlignment="Top" Width="75" BorderBrush="#FF0152FF" Foreground="Black" Background="#FF00AEFF" Click="Button_Click_3"/>
+        </Grid>
     </Border>
 </Window>

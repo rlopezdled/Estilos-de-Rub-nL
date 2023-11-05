@@ -1,0 +1,40 @@
+C:\Users\alumMA\source\repos\Estilos de RubénL\Estilos de RubénL\bin\Debug\Estilos de RubénL.exe.config
+C:\Users\alumMA\source\repos\Estilos de RubénL\Estilos de RubénL\bin\Debug\Estilos de RubénL.exe
+C:\Users\alumMA\source\repos\Estilos de RubénL\Estilos de RubénL\bin\Debug\Estilos de RubénL.pdb
+C:\Users\alumMA\source\repos\Estilos de RubénL\Estilos de RubénL\obj\Debug\Estilos de RubénL.csproj.AssemblyReference.cache
+C:\Users\alumMA\source\repos\Estilos de RubénL\Estilos de RubénL\obj\Debug\MainWindow.g.cs
+C:\Users\alumMA\source\repos\Estilos de RubénL\Estilos de RubénL\obj\Debug\App.g.cs
+C:\Users\alumMA\source\repos\Estilos de RubénL\Estilos de RubénL\obj\Debug\Estilos de RubénL_MarkupCompile.cache
+C:\Users\alumMA\source\repos\Estilos de RubénL\Estilos de RubénL\obj\Debug\Estilos de RubénL_MarkupCompile.lref
+C:\Users\alumMA\source\repos\Estilos de RubénL\Estilos de RubénL\obj\Debug\App.baml
+C:\Users\alumMA\source\repos\Estilos de RubénL\Estilos de RubénL\obj\Debug\MainWindow.baml
+C:\Users\alumMA\source\repos\Estilos de RubénL\Estilos de RubénL\obj\Debug\Estilos de RubénL.g.resources
+C:\Users\alumMA\source\repos\Estilos de RubénL\Estilos de RubénL\obj\Debug\Estilos_de_RubénL.Properties.Resources.resources
+C:\Users\alumMA\source\repos\Estilos de RubénL\Estilos de RubénL\obj\Debug\Estilos de RubénL.csproj.GenerateResource.cache
+C:\Users\alumMA\source\repos\Estilos de RubénL\Estilos de RubénL\obj\Debug\Estilos de RubénL.csproj.CoreCompileInputs.cache
+C:\Users\alumMA\source\repos\Estilos de RubénL\Estilos de RubénL\obj\Debug\Estilos de RubénL.exe
+C:\Users\alumMA\source\repos\Estilos de RubénL\Estilos de RubénL\obj\Debug\Estilos de RubénL.pdb
+C:\Users\alumMA\source\repos\Estilos de RubénL\Estilos de RubénL\obj\Debug\Window2.g.cs
+C:\Users\alumMA\source\repos\Estilos de RubénL\Estilos de RubénL\obj\Debug\Window2.baml
+C:\Users\ruben\OneDrive\Desktop\Estilos de RubénL\Estilos de RubénL\obj\Debug\Estilos de RubénL.csproj.AssemblyReference.cache
+C:\Users\ruben\OneDrive\Desktop\Estilos de RubénL\Estilos de RubénL\obj\Debug\Window2.g.cs
+C:\Users\ruben\OneDrive\Desktop\Estilos de RubénL\Estilos de RubénL\obj\Debug\App.g.cs
+C:\Users\ruben\OneDrive\Desktop\Estilos de RubénL\Estilos de RubénL\obj\Debug\Estilos de RubénL_MarkupCompile.cache
+C:\Users\ruben\OneDrive\Desktop\Estilos de RubénL\Estilos de RubénL\obj\Debug\Estilos de RubénL_MarkupCompile.lref
+C:\Users\ruben\OneDrive\Desktop\Estilos de RubénL\Estilos de RubénL\obj\Debug\Estilos de RubénL.exe
+C:\Users\ruben\OneDrive\Desktop\Estilos de RubénL\Estilos de RubénL\obj\Debug\Estilos de RubénL.pdb
+C:\Users\ruben\OneDrive\Desktop\Estilos de RubénL\Estilos de RubénL\bin\Debug\Estilos de RubénL.exe.config
+C:\Users\ruben\OneDrive\Desktop\Estilos de RubénL\Estilos de RubénL\bin\Debug\Estilos de RubénL.exe
+C:\Users\ruben\OneDrive\Desktop\Estilos de RubénL\Estilos de RubénL\bin\Debug\Estilos de RubénL.pdb
+C:\Users\ruben\OneDrive\Desktop\Estilos de RubénL\Estilos de RubénL\obj\Debug\MainWindow.g.cs
+C:\Users\ruben\OneDrive\Desktop\Estilos de RubénL\Estilos de RubénL\obj\Debug\MainWindow.baml
+C:\Users\ruben\OneDrive\Desktop\Estilos de RubénL\Estilos de RubénL\obj\Debug\Window2.baml
+C:\Users\ruben\OneDrive\Desktop\Estilos de RubénL\Estilos de RubénL\obj\Debug\Estilos de RubénL.g.resources
+C:\Users\ruben\OneDrive\Desktop\Estilos de RubénL\Estilos de RubénL\obj\Debug\Estilos_de_RubénL.Properties.Resources.resources
+C:\Users\ruben\OneDrive\Desktop\Estilos de RubénL\Estilos de RubénL\obj\Debug\Estilos de RubénL.csproj.GenerateResource.cache
+C:\Users\ruben\OneDrive\Desktop\Estilos de RubénL\Estilos de RubénL\obj\Debug\Estilos de RubénL.csproj.CoreCompileInputs.cache
+C:\Users\ruben\OneDrive\Desktop\Estilos de RubénL\Estilos de RubénL\obj\Debug\Window1.g.cs
+C:\Users\ruben\OneDrive\Desktop\Estilos de RubénL\Estilos de RubénL\obj\Debug\Window3.g.cs
+C:\Users\ruben\OneDrive\Desktop\Estilos de RubénL\Estilos de RubénL\obj\Debug\Window1.baml
+C:\Users\ruben\OneDrive\Desktop\Estilos de RubénL\Estilos de RubénL\obj\Debug\Window3.baml
+C:\Users\ruben\OneDrive\Desktop\Estilos de RubénL\Estilos de RubénL\obj\Debug\App.baml

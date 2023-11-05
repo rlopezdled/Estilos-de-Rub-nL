@@ -6,7 +6,18 @@
         xmlns:local="clr-namespace:Estilos_de_RubénL"
         mc:Ignorable="d"
         Title="Window2" Height="450" Width="800">
-    <Grid>
-        
+    <Border>
+        <Grid>
+            <Image/>
+        <Button Content="Inicio" HorizontalAlignment="Left" VerticalAlignment="Top" Width="50" Height="50" Click="Button_Click"/>
+        <TextBox HorizontalAlignment="Left" Height="38" Margin="137,112,0,0" TextWrapping="Wrap" Text="¿Qué problema tienes?" VerticalAlignment="Top" Width="507" TextAlignment="Center" FontSize="25"/>
+        <Label Content="Centro de ayuda" FontSize="48" FontWeight="Bold" HorizontalAlignment="Left" Margin="213,10,0,0" VerticalAlignment="Top"/>
+        <Label Content="Preguntas frecuentes" HorizontalAlignment="Left" Margin="304,155,0,0" VerticalAlignment="Top" FontSize="20" FontWeight="Bold"/>
+        <Label Content="Hacer cambios en una reserva es muy sencillo, pero dependerá de ciertas condiciones: si tu reserva cumple con la política de cancelación y&#xD;&#xA;si la empresa que presta el servicio seleccionado puede adaptarse a tu solicitud de cambio.&#xA;Si tu solicitud de cambio respeta los plazos establecidos según la política de cancelación, tan solo tienes que cancelar la reserva en curso y&#xD;&#xA;realizar una nueva reserva con los datos correctos. De lo contrario, solo podremos atender tu solicitud en función de la antelación con la&#xD;&#xA;que notifiques los cambios a Klook o a la empresa que presta el servicio." HorizontalAlignment="Left" Margin="30,301,0,0" VerticalAlignment="Top" Height="108"/>
+        <Label Content="¿Cómo puedo cancelar un viaje?" HorizontalAlignment="Left" Margin="319,275,0,0" VerticalAlignment="Top" Foreground="#FF005DFF"/>
+        <Label Content="Recuerda que tanto usuario como contraseña tienen que respetar las mayúsculas, minúsculas, tildes, etc., es decir, debes escribirlas de la&#xD;&#xA;misma manera que las recibiste. Si sigues teniendo problemas, elimina las cookies y archivos temporales, dado que es posible que se te&#xD;&#xA;haya quedado guardado algún error en la memoria caché de tu ordenador. Si aún así no puedes acceder ponte en contacto con nosotros." HorizontalAlignment="Left" Margin="30,212,0,0" VerticalAlignment="Top"/>
+        <Label Content="No puedo acceder a mi cuenta" HorizontalAlignment="Left" Margin="319,186,0,0" VerticalAlignment="Top" Foreground="#FF005DFF"/>
+
     </Grid>
+        </Border>
 </Window>

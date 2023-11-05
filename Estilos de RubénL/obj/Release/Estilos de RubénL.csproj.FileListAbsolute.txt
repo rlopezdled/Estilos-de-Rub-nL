@@ -1,0 +1,22 @@
+C:\Users\ruben\OneDrive\Desktop\Estilos de RubénL\Estilos de RubénL\bin\Release\Estilos de RubénL.exe.config
+C:\Users\ruben\OneDrive\Desktop\Estilos de RubénL\Estilos de RubénL\bin\Release\Estilos de RubénL.exe
+C:\Users\ruben\OneDrive\Desktop\Estilos de RubénL\Estilos de RubénL\bin\Release\Estilos de RubénL.pdb
+C:\Users\ruben\OneDrive\Desktop\Estilos de RubénL\Estilos de RubénL\obj\Release\Estilos de RubénL.csproj.AssemblyReference.cache
+C:\Users\ruben\OneDrive\Desktop\Estilos de RubénL\Estilos de RubénL\obj\Release\MainWindow.g.cs
+C:\Users\ruben\OneDrive\Desktop\Estilos de RubénL\Estilos de RubénL\obj\Release\Window1.g.cs
+C:\Users\ruben\OneDrive\Desktop\Estilos de RubénL\Estilos de RubénL\obj\Release\Window2.g.cs
+C:\Users\ruben\OneDrive\Desktop\Estilos de RubénL\Estilos de RubénL\obj\Release\Window3.g.cs
+C:\Users\ruben\OneDrive\Desktop\Estilos de RubénL\Estilos de RubénL\obj\Release\App.g.cs
+C:\Users\ruben\OneDrive\Desktop\Estilos de RubénL\Estilos de RubénL\obj\Release\Estilos de RubénL_MarkupCompile.cache
+C:\Users\ruben\OneDrive\Desktop\Estilos de RubénL\Estilos de RubénL\obj\Release\Estilos de RubénL_MarkupCompile.lref
+C:\Users\ruben\OneDrive\Desktop\Estilos de RubénL\Estilos de RubénL\obj\Release\App.baml
+C:\Users\ruben\OneDrive\Desktop\Estilos de RubénL\Estilos de RubénL\obj\Release\MainWindow.baml
+C:\Users\ruben\OneDrive\Desktop\Estilos de RubénL\Estilos de RubénL\obj\Release\Window1.baml
+C:\Users\ruben\OneDrive\Desktop\Estilos de RubénL\Estilos de RubénL\obj\Release\Window2.baml
+C:\Users\ruben\OneDrive\Desktop\Estilos de RubénL\Estilos de RubénL\obj\Release\Window3.baml
+C:\Users\ruben\OneDrive\Desktop\Estilos de RubénL\Estilos de RubénL\obj\Release\Estilos de RubénL.g.resources
+C:\Users\ruben\OneDrive\Desktop\Estilos de RubénL\Estilos de RubénL\obj\Release\Estilos_de_RubénL.Properties.Resources.resources
+C:\Users\ruben\OneDrive\Desktop\Estilos de RubénL\Estilos de RubénL\obj\Release\Estilos de RubénL.csproj.GenerateResource.cache
+C:\Users\ruben\OneDrive\Desktop\Estilos de RubénL\Estilos de RubénL\obj\Release\Estilos de RubénL.csproj.CoreCompileInputs.cache
+C:\Users\ruben\OneDrive\Desktop\Estilos de RubénL\Estilos de RubénL\obj\Release\Estilos de RubénL.exe
+C:\Users\ruben\OneDrive\Desktop\Estilos de RubénL\Estilos de RubénL\obj\Release\Estilos de RubénL.pdb
